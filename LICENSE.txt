@@ -1,0 +1,2 @@
+---------LICENSE-------------
+This repo is used by Aakash Dabas to store code of his projects and you are not allowed to use it in any form unless you've permission from Aakash Dabas.

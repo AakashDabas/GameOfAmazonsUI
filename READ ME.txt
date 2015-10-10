@@ -1,0 +1,2 @@
+READ FILE
+This code is entirely written by Aakash Dabas. He uses this repository as a online backup and VCS for his projects. You are not allowed to access these files unless you have permission from Aakash Dabas.
